@@ -15,5 +15,5 @@ Source code for the project if you want to follow along can be found here (inser
   #### **Load in the Data**
   - The data we are using comes from an NBA dataset found publically on kaggle here insert link.
   - The dataset includes every player who logged a minute in an NBA game this year, and it includes all basic stats including points per game,     rebounds per game, assists per game, etc. Advanced stats are also included for each player.
-  `![Fig Name](assets/images/dataset)`
+  `![Fig Name](assets/images/dataset.png)`
 ## Call to Action
