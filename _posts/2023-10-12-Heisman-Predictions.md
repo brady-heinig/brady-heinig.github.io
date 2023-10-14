@@ -36,4 +36,10 @@ Source code for the project if you want to follow along can be found here (inser
 - Player salaries are easier for the model to predict because there are many more players who make average salaries in the NBA than those who make max salaries.
 - As the player salaries get larger, the actual salary values become much larger than the predicted ones.
 ### **Analyze**
+- Our model has an MSE of 5254539985871.8984, with and R-squared of .6591. This means almost 66% of NBA players salaries can be explained by the variables that we gave our model. There is definitely room for improvement there, something we could find by running other types of ML models
+- We wanted to find the players who had the biggest discrepency between their predicted and actual salaries. The table below shoes the players the model considered the most overpaid in our test set.
+- Duncan Robinson recieved a lot of criticism this past season due to his lack of production and effort on the defensive side of the ball after signing a large contract. Romeo langford has also been a targert of critics for his lack of role on the Celtics after being a high draft pick. For these reasons, it makes sense why our model shows a discrepancy in on court performnce and financial compensation
+- The table below displays the top 5 most undervalued players according to our model.
+- Bones Hyland has been an integral part of the Los Angeles Clippers' success since arriving in a trade midway through the year, and since he was drafted late in the first round, he is on a very team-friendly deal. Bol Bol is also a low-drafted player who had a breakout season after a few disapointing years.
 ## Call to Action
+This model is not a perfect representation of an NBA player's value, but I hope this gives you a glimpse intot the power of machine learning. Come back to the source code and try to implement MLR to a project of your choice and see if you can unlock the power of machine learning to answer the questions you want solved!
