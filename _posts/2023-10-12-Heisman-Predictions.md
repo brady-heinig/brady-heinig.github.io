@@ -10,7 +10,7 @@ description: "I'm Going to Predict the Heisman"
 
 *  Make the YML heading.
 
-'''{python}
+```{python}
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -23,4 +23,4 @@ na_cols = ['FT%', '3P%', '2P%', 'eFG%', 'FG%',  '3PAr', 'FTr', 'TOV%', 'TS%']
 df[na_cols] = df[na_cols].fillna(0)
 
 df.head()
-'''
+```
