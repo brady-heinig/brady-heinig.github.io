@@ -18,4 +18,14 @@ Source code for the project if you want to follow along can be found here (inser
 ```
 {% raw %}![Figure]({{site.url}}/{{site.baseurl}}/assets/images/dataset.png){% endraw %}
 ```
+  #### **Define our Variables**
+  - In multiple linear regression, you need to have more than one independent variables. In this study, we will be using several to explain our response variable 'Salary'.
+  #### **Check Assumptions**
+  - For MLR, there are 4 assumptions that our data needs to meet in order for our model to accurately predict:
+    - Linearity: Dependent and independent variable relationships should be linear.
+    - Homoscedasticity: Variance of the errors should be constant.
+    - Multivariate normality: The residuals need to be normally distributed.
+    - Multicollinearity: There should be little or no multicollinearity in the data.
+  #### **Test, Train, and Fit the Model**
+  #### **Analyze**
 ## Call to Action
