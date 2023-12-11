@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is the Goat?: How I found my Data"
+title:  "The Goat Debate: Data"
 author: Brady Heinig
 description: This is an explanation of how I gound my data to do this project
 image: /assets/images/mj_vs_lebron.png
