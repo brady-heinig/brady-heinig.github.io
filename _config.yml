@@ -23,7 +23,7 @@ email: bheinig@gmail.com
 description: "Welcome to Full Court Press, where we dive head first into the analytic underpinnings of basketball" 
 baseurl:
 url: "https://brady-heinig.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
+image: /assets/images/shai.png
 author: Brady Heinig
 copyright: BMH # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description:
