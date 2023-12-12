@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My 386 Blog 
+title: Full Court Press 
 email: bheinig@gmail.com
-description: "This blog is a way for me to share what I know about Data Science with the whole world!" 
+description: "Welcome to Full Court Press, where we dive head first into the analytic underpinnings of basketball" 
 baseurl:
 url: "https://brady-heinig.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://source.unsplash.com/random
