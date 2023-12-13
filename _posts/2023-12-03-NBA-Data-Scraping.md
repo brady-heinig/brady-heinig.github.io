@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Goat Debate: Data"
+title:  "Who is the Goat?"
 author: Brady Heinig
-description: This is an explanation of how I gound my data to do this project
+description: A detailed explanation of how I found and cleaned the data needed to answer this question
 image: /assets/images/mj_vs_lebron.png
 ---  
 The King vs. His Airness
