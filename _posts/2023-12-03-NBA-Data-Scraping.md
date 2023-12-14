@@ -11,7 +11,7 @@ This is a debate that has graced many barbershops for the last few years, and it
 
 Jordan left his legcay decades ago, while Lebron continues to play at a high level in the league at the age of 39! I am not old enough to have watched both players dominate in their eras, but I want to dive into the statistics that will tell me each player's story in an attempt to answer the burning question: Who is the greatest basketball player of all time?
 
-### **How do we quantify Greatness?**
+### **How Do De Quantify Greatness?**
 
 Basic basketball statistics are available in excess across the internet, but I was curious in also looking at the advanced statistics that would give me a deeper understanding of how these players dominated in their own ways. Basketball-Reference (pictured below) is a great website that has a plethora of advanced analytics on every player that has graced an NBA court. Basketball-Reference does not have a public API, they just ask that any scraped data is not used in projects that will be for a user's profit. Because I fit this criteria, and the data for each player is publicly available, I saw no ethical problems concerning my project and moved forward with it. The website includes pages that have datatables with basic and advanced statistics for both Lebron and MJ in their regular season and playoff careers. 
 
