@@ -9,7 +9,7 @@ The King vs. His Airness
 
 This is a debate that has graced many barbershops for the last few years, and it doesn't show any sign of slowing down. Michael Jordan cemented himself as an all-time great by winning 6 championships with the Chicago Bulls, while also changing the way the game was played. People claimed we would never see a player that came close to Jordan's greatness. Enter Lebron James. Coming into the NBA as an 18 year old kid, Lebron lived up to lofty expectations by winning 4 championships with 3 different teams and breaking the NBA scoring record that had long been considered untouchable. 
 
-Jordan left his legcay decades ago, while Lebron continues to play at a high level in the league at the age of 39! I am not old enough to have watched both players dominate in their eras, but I want to dive into the statistics that will tell me each player's story in an attempt to answer the burning question: Who is the greatest basketball player of all time
+Jordan left his legcay decades ago, while Lebron continues to play at a high level in the league at the age of 39! I am not old enough to have watched both players dominate in their eras, but I want to dive into the statistics that will tell me each player's story in an attempt to answer the burning question: Who is the greatest basketball player of all time?
 
 ### **How do we quantify Greatness?**
 
