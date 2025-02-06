@@ -1,0 +1,54 @@
+.project-header {
+  background: #222; /* Dark background */
+  color: white;
+  padding: 10px 20px; /* Thinner padding */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px; /* Adjust to desired thickness */
+}
+
+.project-header .container {
+  display: flex;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.site-title a {
+  color: white;
+  text-decoration: none;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 15px; /* Spacing between items */
+}
+
+.header-right img {
+  width: 24px; /* Adjust icon size */
+  height: 24px;
+  filter: invert(1); /* Makes the icons white */
+}
+
+.home-btn {
+  background: #f04; /* Change color as needed */
+  color: white;
+  padding: 6px 12px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.home-btn:hover {
+  background: #c03;
+}
