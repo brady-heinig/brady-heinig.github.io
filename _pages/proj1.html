@@ -4,6 +4,16 @@ title: "Project 1"
 permalink: /proj1/
 ---
 
-<h1>Project 1</h1>
-<p>This project is about...</p>
-<img src="/assets/images/scottie_scheffler.jpeg" alt="Project 1 Screenshot" width="600px">
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include header.html %}
+    <section id="project">
+        <h1>Project 1</h1>
+        <p>This is a description of my project.</p>
+        <img src="/assets/images/scottie_scheffler.jpeg" alt="Project 1 Screenshot" width="600px">
+    </section>
+    {% include footer.html %}
+</body>
+</html>
