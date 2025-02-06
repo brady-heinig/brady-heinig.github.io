@@ -13,3 +13,7 @@ twitter_username:
 github_username:  brady-heinig
 
 exclude: ['package.json', 'src' , 'node_modules']
+collections:
+  pages:
+    output: true
+    permalink: /:path/
