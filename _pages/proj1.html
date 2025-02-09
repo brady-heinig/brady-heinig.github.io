@@ -7,9 +7,28 @@ permalink: /proj1/
 <!DOCTYPE html>
 <html lang="en">
     <section id="project">
+        <style>
+              .full-width-image {
+                width: 100%;
+                height: 75vh; /* Adjust this to control how much height you want */
+                overflow: hidden;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+              }
+            
+              .full-width-image img {
+                width: 100%;
+                height: auto;
+                max-height: none;
+                object-fit: cover;
+                object-position: center 50%; /* Keeps the middle 75% of the image */
+              }
+        </style>
+        <div class="full-width-image">
+            <img src="/assets/img/scottie_scheffler.jpeg" alt="Project 1 picture">
+        </div>
         <h1 align="center"> PGA Tour ML Project</h1>
-        <img align="center" src="/assets/img/scottie_scheffler.jpeg" alt="Project 1 Screenshot" width="600px">
         <p align="center"> This is a description of my project.</p>
-       
     </section>
 </html>
